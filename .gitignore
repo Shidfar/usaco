@@ -1,0 +1,12 @@
+# ignore these
+cmake-build-debug
+*/*
+
+# do not ignore these
+!.gitignore
+!CMakeLists.txt
+!*.cpp
+!*.py
+!*/*.cpp
+!*/makefile
+!*/Makefile
